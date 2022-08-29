@@ -1,0 +1,60 @@
+﻿          1 archivo(s) copiado(s).
+          1 archivo(s) copiado(s).
+          1 archivo(s) copiado(s).
+          1 archivo(s) copiado(s).
+          1 archivo(s) copiado(s).
+          1 archivo(s) copiado(s).
+  Ya existe el subdirectorio o el archivo D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\x64\Debug Dynamic\resources.
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\1.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\2.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\3.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\8-BIT WONDER.TTF
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\abc.TTF
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\about.jpg
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\bala.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\ball.wav
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Boss.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Character1.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Character1_sprite.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Character2.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Character3.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Click.wav
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\f.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\fondo.jpg
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\fondo.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\FondoJuego.wav
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\FondoRes.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Leader.jpg
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Leader.txt
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\sansation.ttf
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\shot.wav
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\Theme.wav
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\themeI.png
+  D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\resources\verde.png
+         26 archivo(s) copiado(s).
+  Facade.cpp
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\disparar.h(25,76): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  Juego.cpp
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\disparar.h(25,76): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(44,60): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(44,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(60,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(60,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(61,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(61,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(102,18): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Juego.cpp(197,11): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\disparar.h(25,76): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Pantallas.h(6,52): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\Pantallas.h(6,34): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Generando código...
+  SmflProyect.vcxproj -> D:\salvar\u\3ER SEMESTRE\CC2\SmflProyect\x64\Debug Dynamic\SmflProyect.exe
